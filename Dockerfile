@@ -1,3 +1,3 @@
 FROM ubuntu:latest
 
-CMD echo v1
+CMD echo v2
